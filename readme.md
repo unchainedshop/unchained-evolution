@@ -9,6 +9,8 @@ This repository tracks the ongoing evolution of the unchained shop. It contains:
 
 ## Roadmap
 
+Investments (bootstrapping from the founders) until today in regards to our [Slicing Pie](http://slicingpie.com): CHF 110'000.
+
 - [x] 2017.04 Sketch out the architecture of a headless e-commerce platform
 - [x] 2017.06 Signed first customer contract
 - [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
