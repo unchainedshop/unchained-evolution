@@ -1,8 +1,7 @@
 # Feature name
 
 * Proposal: [SE-NNNN](NNNN-filename.md)
-* Authors: [Author 1](https://github.com/unchaindev), [Author 2](https://github.com/unchaindev)
-* Review Manager: TBD
+* Authors: -
 * Status: **Awaiting implementation**
 * Breaking: TBD
 

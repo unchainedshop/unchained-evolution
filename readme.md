@@ -2,9 +2,26 @@
 
 This repository tracks the ongoing evolution of the unchained shop. It contains:
 
-* A general overview of all the software components that are part of the platform
-* Goals for upcoming unchained engine releases (this document).
-* Software Architecture Policies
+* Platform State of the Union: A general overview of all the software components that are part of the platform
+* Roadmap: Goals for upcoming unchained engine releases (this document)
+* [Proposals / Feature Requests](proposals/proposals.md) for upcoming engine releases
+* Software Architecture
+
+## Roadmap
+
+- [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
+- [x] 2018.01 Landing Page
+- [ ] 2018.02 Sketch out the big plan
+- [ ] 2018.03 Whitelisting / Registration for Investors open
+- [ ] 2018.03 Pre-ICO Distribution
+- [ ] 2018.03 Hire Community, PR & Social Media Management Staff as well as test and documentation engineers.
+- [ ] 2018.04 ICO (2018/04/2 - 2018/04/16)
+- [ ] 2018.08 Open-Source release: Release of unchained engine 1.0 and admin UI 1.0. If we hit the hard-cap, we will release everything under the very permissive MIT license terms. Else we will be licensing the e-commerce platform under a stricter AGPLv3. After that day we will try to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
+- [ ] 2018.09 Hire more core engineers
+- [ ] 2019.01 First Unchained Dev Conference in Zermatt, Switzerland.
+- [ ] 2019.01 Presentation of our next-generation open-source business model
+- [ ] 2019.03 Hire sales
+- [ ] 2019.12 Break even
 
 ## Development major version:  unchained 1.0
 
@@ -22,7 +39,7 @@ The following tasks are currently blocking the first OSS version of our product:
 - [x] Ethereum Payment Plugin
 - [ ] Stellar Payment Plugin
 - [ ] "Token Distribution" Delivery Plugin (ICO)
-- [ ] Umbrella Repository
+- [ ] Tests
 
 **Core Package Refactorings needed**:
 - [x] Delivery Plugin System
@@ -33,9 +50,9 @@ The following tasks are currently blocking the first OSS version of our product:
 - [ ] Messaging Plugin System
 - [ ] Document Plugin System
 
-### Other Improvements
+## Non-development tasks
 
-Beyond the most important part of bringing the engine out to public, we will invest time and money into these tasks:
+Beyond the most important part of bringing the engine out to public, we will always invest time and money into these tasks:
 
 - **Tech Best Practice (Continous Refactoring)**. We want to further establish technical best practice in our products like pointer-based paging in graphql or better exception/error handling
 
