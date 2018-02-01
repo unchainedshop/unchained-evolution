@@ -1,4 +1,4 @@
-# Competition Overview
+# Open-Source Release v1.0
 
 * Proposal: [SE-0001](0001-open-source.md)
 * Authors: @pozylon @fliptation

@@ -9,6 +9,8 @@ This repository tracks the ongoing evolution of the unchained shop. It contains:
 
 ## Roadmap
 
+- [x] 2017.04 Sketch out the architecture of a headless e-commerce platform
+- [x] 2017.06 Signed first customer contract
 - [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
 - [x] 2018.01 Landing Page
 - [ ] 2018.02 Sketch out the big plan
