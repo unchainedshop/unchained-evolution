@@ -9,20 +9,17 @@ This repository tracks the ongoing evolution of the unchained shop. It contains:
 
 ## Roadmap
 
-Investments (bootstrapping from the founders) until today in regards to our [Slicing Pie](http://slicingpie.com): CHF 110'000.
-
 - [x] 2017.04 Sketch out the architecture of a headless e-commerce platform
 - [x] 2017.06 Signed first customer contract
 - [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
 - [x] 2018.01 Landing Page
 - [ ] 2018.02 Roadmap 1.0
-- [ ] 2018.03 Whitelisting / Registration for Investors open
-- [ ] 2018.03 Pre-ICO
+- [ ] 2018.02 [Fundraiser: Presale](fundraiser.md)
 - [ ] 2018.04 Staff & Community Ramp Up
-- [ ] 2018.05 ICO (2018/04/2 - 2018/04/16)
+- [ ] 2018.04 [Fundraiser: Public Sale](fundraiser.md)
 - [ ] 2018.08 Open-Source release: Release of unchained engine 1.0 and admin UI 1.0. If we hit the hard-cap, we will release everything under the very permissive MIT license terms. Else we will be licensing the e-commerce platform under a stricter AGPLv3. After that day we will try to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
-- [ ] 2019.01 First Unchained Conference, Focus: Roadmap 2.0 & Enterprise Services
-- [ ] 2020.01 Second Unchained Conference, Focus: Roadmap 3.0 & Global Community
+- [ ] 2019.01 First Unchained Conference Zermatt, Focus: Roadmap 2.0 & Enterprise Services
+- [ ] 2020.01 Second Unchained Conference Zermatt, Focus: Roadmap 3.0 & Global Community
 - [ ] 2020.12 Break even
 
 ## Development major version:  unchained 1.0
