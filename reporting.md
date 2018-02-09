@@ -18,7 +18,8 @@ We are trying to buy us as much time as possible with the money raised by settin
   1.5 full-time marketer professional positions and ad costs
 * CHF 200'000 Sales & Events:
   1.5 sales professional positions and sales expenses
-* CHF 100'000 Finances, Taxes, Law, Office
+* CHF 100'000 Business Administration:
+Finances, Taxes, Law, Office
 
 **Quarterly Results**
 
