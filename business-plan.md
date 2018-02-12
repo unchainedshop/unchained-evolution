@@ -1,4 +1,4 @@
-# Headless E-Commerce Platform: Economic model
+# Business plan
 *unchained.shop 2018*
 
 Authors: P. Kaufmann, V. Rudelj
@@ -7,12 +7,31 @@ Authors: P. Kaufmann, V. Rudelj
 
 ## History
 
-Founded 2018 as a joint-venture of Reactive Code GmbH & Fliptation GmbH
+Under the name fivelines, Pascal and Vedran have been asked to build a combined B2C/B2B online-shop for a startup called Avantyard early 2017. The guys of Avantyard just finished their very successful crowdfunding campaign for a new smell-free thrash bin: Freezyboy.
+
+At fivelines we believe in cutting edge web app technology and when we started to evaluate existing shop platforms and tried to match the feature-sets with our requirements. After a while we found out that actually only one open-source e-commerce platform could suit as a base for the freezyboy shop at that time: Magento.
+
+We had a look at the technology stack and then decided to build our own shop platform. A platform which is designed for the future.
+
+That was the hour of birth of the unchained.shop platform.
+
+[fivelines](https://fivelines.ch) is a joint-venture of Reactive Code GmbH and Fliptation GmbH.
 
 ## Team
 
-- **Pascal Kaufmann**, 30, Software Engineer
-- **Vedran Rudelj**, 38, Interaction Designer
+Bootstrapped by 2 Freelancers:
+
+- **Pascal Kaufmann**, 30, Software Engineer & Operations, Founder of Reactive Code GmbH
+- **Vedran Rudelj**, 38, Interaction Designer & Finances, Founder of Fliptation GmbH
+
+That power team has almost everything which is needed to build the company.
+
+- Vedran has 10 years of web design and interaction design experience, already built a shop platform for B2C: https://www.kickshops.ch (like Shopify) and knows how to calculate as a former funds manager at Credit Suisse.
+- Pascal has 10 years of sofware development experience in web & native apps, lead a team at Swisscom and was once a SAP consultant and network engineer.
+
+Both of them studied business administration and work for their own companies since many years.
+
+We are still looking for somebody to relieve us with the PR, Sales & Social Media parts.
 
 ## Vision
 
@@ -116,6 +135,25 @@ To fully concentrate on the product development, unchained will not build storef
 - Developer Support
 
 # Market & Competition
+
+**OSS**:
+- Magento (PHP)
+- Prestashop (PHP)
+- Shopware (PHP)
+- ReactionComerce (Node)
+- [OSCommerce](https://github.com/osCommerce) (PHP)
+- [Opencart](https://github.com/opencart/opencart) (PHP)
+
+**Proprietary**
+- Spryker (PHP)
+- SAP Hybris (Custom)
+- Ibrows (CH, PHP)
+- Shopify (SaaS)
+- [Snipcart](https://snipcart.com) (SaaS)
+- [Foxy.io](https://www.foxy.io) (SaaS)
+
+**Permissive**
+- https://github.com/Sylius/Sylius (PHP)
 
 # Financial Forecasts
 
