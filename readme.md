@@ -2,7 +2,7 @@
 
 This repository tracks the ongoing evolution of the unchained shop. It contains:
 
-* Platform State of the Union: A general overview of all the software components that are part of the platform
+* [Our Business Plan](business-plan.md)
 * Roadmap: Goals for upcoming unchained engine releases (this document)
 * [Proposals / Feature Requests](proposals/proposals.md) for upcoming engine releases
 * Software Architecture
@@ -43,11 +43,14 @@ The following tasks are currently blocking the first OSS version of our product:
 **Core Package Refactorings needed**:
 - [x] Delivery Plugin System
 - [x] Warehousing Plugin System
-- [ ] Pricing Plugin System
-- [ ] Discount Plugin System
-- [ ] Payment Plugin System
-- [ ] Messaging Plugin System
-- [ ] Document Plugin System
+- [x] Pricing Plugin System
+- [x] Discount Plugin System
+- [x] Payment Plugin System
+- [x] Messaging Plugin System
+- [x] Document Plugin System
+- [ ] Plugins as reusable Package
+- [ ] GraphQL API as reusable Package
+- [ ] Whole engine as reusable Package
 
 ## Non-development tasks
 

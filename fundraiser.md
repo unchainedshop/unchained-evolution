@@ -4,9 +4,9 @@ The unchained.shop Token
 
 ## Distribution
 
-- 5% Open Source Community Development
-- 20% Team & Advisors
-- 15% Company Reserve
+- 15% Open Source Community Development
+- 15% Team & Advisors
+- 10% Company Reserve
 - 60% Sale
 
 **Team & Advisors Vesting**

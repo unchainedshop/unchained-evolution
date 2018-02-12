@@ -3,22 +3,22 @@ Version: 2018.01
 # 2017
 
 Investments (bootstrapping from the founders, time & money) until today in regards to our [Slicing Pie](http://slicingpie.com)
-
-approx. **CHF 250'000**
+Approx. **CHF 250'000**
 
 # 2018
 
 **Budget**
 
-We are trying to buy us as much time as possible with the money raised by setting a budget of per year, if we had fundraised CHF 5 MM, this budget for the year 2018 will look like this:
+We are trying to buy us as much time as possible with the money raised by setting a
+budget per year so we have a total of 4 years burn time.
 
-* CHF 500'000 Engineering:
+* 50% Engineering:
   3 full-time senior engineer positions and IT System Infrastructure costs
-* CHF 200'000 Social Media & PR:
+* 20% Social Media & PR:
   1.5 full-time marketer professional positions and ad costs
-* CHF 200'000 Sales & Events:
+* 20% Sales & Events:
   1.5 sales professional positions and sales expenses
-* CHF 100'000 Business Administration:
+* 10% Business Administration:
 Finances, Taxes, Law, Office
 
 **Quarterly Results**
