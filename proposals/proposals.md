@@ -9,6 +9,8 @@
 - [SE-0005](0005-catalogs.md)
 - [SE-0006](0006-venues.md)
 - [SE-0007](0007-reports.md)
+- [SE-0008](0008-event-bus.md)
+- [SE-0009](0009-referral-discounts.md)
 
 **Awaiting Approval**
 

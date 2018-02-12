@@ -3,9 +3,37 @@
 
 Authors: P. Kaufmann, V. Rudelj
 
-## Key Factors
+# Company
 
-Unchained.shop will become the Magento of the IOT.
+## History
+
+Founded 2018 as a joint-venture of Reactive Code GmbH & Fliptation GmbH
+
+## Team
+
+- **Pascal Kaufmann**, 30, Software Engineer
+- **Vedran Rudelj**, 38, Interaction Designer
+
+## Vision
+
+Building the next-generation e-commerce experience for today's web agencies.
+
+## Situation
+
+To build the current software stacks we have already invested tons of non-billable hours. All investments flow into a [Slicing Pie](http://slicingpie.com) equity splitting model.
+
+Costs (CHF 160'000)
+- CHF 5'000 Hard Money
+- CHF 155'000 (over 1'500 hours of work, CHF 100/h)
+
+Revenue (CHF 30'000)
+- GoLive of first customer project via our consulting label "fivelines": Freezyboy Online Shop
+
+# Products & Services
+
+## Platform
+
+Unchained.shop is an open-source omni-channel e-commerce platform for the IOT.
 
 **Open Source**
 
@@ -22,54 +50,48 @@ Building an enterprise storefront includes evaluating e-commerce platforms to fi
 
 Unchained is not trying to create an online shop which can be configured by a non-developer, the software flow is changed through code and not through UI. This means a software developer is always required to configure the platform. It's called "hackable" software and allows to configure even parts of the software that were not intended to get configured by the core developers.
 
+**USP**
+
 Connecting the two factors hackable & headless means:
 - Possibility to integrate the platform with any kind of device popping up that has internet connection
 - Possibility to configure the platform in any way possible
 - Possibility to connect the platform with any kind of core system through network connectivity
 
-## Product & Service Portfolio
+Unchained is the most flexible and future-proof e-commerce platform on the market.
+
+
+## Service Portfolio
+
+To fully concentrate on the product development, unchained will not build storefronts and websites for sellers. We are going to build SaaS services to complement and fund the development of our open source software.
 
 ```
      Unchained (free, OSS)       +          Partner Agencies
-                                 |
 +-------------+ +-------------+  |  +-------------+ +-------------+
-|             | |             |  |  |             | |             |
 |             | |             |  |  |             | |             |
 | Common      | | Unchained   |  |  | Commercial  | | E-Commerce  |
 | Plugins     | | Engine      |  |  | Plugins     | | Projects    |
 |             | |             |  |  |             | |             |
-|             | |             |  |  |             | |             |
 +-------------+ +-------------+  |  +-------------+ +-------------+
-                                 |
                 +-------------+  |  +-------------+ +-------------+
                 |             |  |  |             | |             |
                 | Storefront  |  |  | ERP         | | Consulting  |
                 | Template    |  |  | Connectors  | |             |
                 |             |  |  |             | |             |
                 +-------------+  |  +-------------+ +-------------+
-                                 |  
-                                 |  
                                  |
   Unchained (SaaS, commercial)   |
-                                 |
 +-------------+ +-------------+  |
-|             | |             |  |
 |             | |             |  |
 | Hosting     | | Control     |  |
 | Platform    | | Panel       |  |
 |             | |             |  |
-|             | |             |  |
 +-------------+ +-------------+  |
-                                 |
                 +-------------+  |
                 |             |  |
                 | Plugin      |  |
                 | Marketplace |  |
                 |             |  |
-                |             |  |
                 +-------------+  +
-
-
 ```
 
 
@@ -92,4 +114,9 @@ Connecting the two factors hackable & headless means:
   - Free admission to the UWDC
   - Revenue Share for Hosting & Plugin Marketplace
 - Developer Support
-  - Limited
+
+# Market & Competition
+
+# Financial Forecasts
+
+# Token Generation Event

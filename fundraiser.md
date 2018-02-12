@@ -19,7 +19,17 @@ Reserved for vesting of future employees
 
 **Sale**
 
-[Planned first year allocation](reporting.md)
+We are trying to buy us as much time as possible with the money raised by setting a
+budget per year so we have a total of 4 years burn time.
+
+- 50% Engineering:
+  3 full-time senior engineer positions and IT System Infrastructure costs
+- 20% Social Media & PR:
+  1.5 full-time marketer professional positions and ad costs
+- 20% Sales & Events:
+  1.5 sales professional positions and sales expenses
+- 10% Business Administration:
+Finances, Taxes, Law, Office
 
 ## Fundraiser
 
