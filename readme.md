@@ -32,25 +32,9 @@ The first version which will be publicly available. To do this we will have to u
 
 The following tasks are currently blocking the first OSS version of our product:
 
-**Required features / improvements**:
-- [ ] Customizable Mail Templates
-- [x] Bitcoin Payment Plugin
-- [x] Ethereum Payment Plugin
-- [ ] Stellar Payment Plugin
-- [ ] "Token Distribution" Delivery Plugin (ICO)
-- [ ] Tests
-
-**Core Package Refactorings needed**:
-- [x] Delivery Plugin System
-- [x] Warehousing Plugin System
-- [x] Pricing Plugin System
-- [x] Discount Plugin System
-- [x] Payment Plugin System
-- [x] Messaging Plugin System
-- [x] Document Plugin System
-- [ ] Plugins as reusable Package
-- [ ] GraphQL API as reusable Package
-- [ ] Whole engine as reusable Package
+- [ ] 3 Agencies as partners
+- [ ] Funding for the next few months of product development (either through ICO, bootstrapping or private equity)
+- [ ] [SE-0001: Untangle to Open Source](proposals/0001-open-source.md)
 
 ## Non-development tasks
 

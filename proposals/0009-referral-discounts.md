@@ -13,7 +13,7 @@ Push mouth to mouth selling via referral codes.
 
 Sometimes Alice wants to sell a product to Bob and wants to incentive him for recommendations to further potential customers.
 
-So Bob complets the payment and gets a referral code sent as thank you.
+So Bob completes the payment and gets a referral code sent as thank you.
 Bob can then send that code to John. For john the code is a discount to get 10% off for the first order.
 If John submits the order, The referral order gets linked to Bob's user account and Alice gets informed,
 so that Alice can send some flowers to Bob.
@@ -24,6 +24,6 @@ so that Alice can send some flowers to Bob.
 
 ## Detailed design
 
--
+Depends on 0003
 
 ## Alternatives considered
