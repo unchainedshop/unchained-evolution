@@ -3,24 +3,43 @@
 This repository tracks the ongoing evolution of the unchained shop. It contains:
 
 * [Our Business Plan](business-plan.md)
-* Roadmap: Goals for upcoming unchained engine releases (this document)
 * [Proposals / Feature Requests](proposals/proposals.md) for upcoming engine releases
-* Software Architecture
+* [Software Architecture](architecture.md)
+
+This document here outlines our long-term roadmap for the company and our next major version and it's focus and progress. This will get updated continously as we achieve our milestones.
 
 ## Roadmap
 
+**2017**
 - [x] 2017.04 Sketch out the architecture of a headless e-commerce platform
 - [x] 2017.06 Signed first customer contract
 - [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
+
+**Q1 2018**
 - [x] 2018.01 Landing Page
-- [ ] 2018.02 Roadmap 1.0
-- [ ] 2018.02 [Fundraiser: Presale](fundraiser.md)
-- [ ] 2018.04 Staff & Community Ramp Up
-- [ ] 2018.04 [Fundraiser: Public Sale](fundraiser.md)
-- [ ] 2018.08 Unchained 1.0 Release & Ramp-up of SaaS Engineering
-- [ ] 2019.01 First Unchained Conference Zermatt, Focus: Roadmap 2.0 & Enterprise Services
-- [ ] 2020.01 Second Unchained Conference Zermatt, Focus: Roadmap 3.0 & Global Community
-- [ ] 2020.12 Break even
+- [x] Roadmap 1.0
+- [ ] Ramp Up: Partner Program for Agencies & Roadshow
+- [ ] [Fundraiser: Presale](fundraiser.md)
+
+**Q2 2018**
+- [ ] Ramp Up: Staff & Community Management
+- [ ] [Fundraiser: Public Sale](fundraiser.md)
+
+**Q3 2018**
+- [ ] Release of Unchained Platform 1.0 as OSS
+- [ ] Release of Unchained Control Panel 1.0 as SaaS
+
+**2019**
+- [ ] Release of Unchained Managed Hosting 1.0 as SaaS
+- [ ] Release of Plugin Marketplace 1.0 as SaaS
+- [ ] First Unchained Conference Zermatt, Focus: Roadmap 2.0 & Enterprise Services
+
+**2020**
+- [ ] Crazy Magic Things
+- [ ] Second Unchained Conference Zermatt, Focus: Roadmap 3.0 & Global Community
+- [ ] Break even
+
+You can find more technical details about our roadmap, how everything works together and what features might pop up sooner or later in [Software Architecture](architecture.md) and [Proposal Index](proposals/proposals.md).
 
 ## Development major version: unchained 1.0
 
