@@ -17,7 +17,7 @@ This repository tracks the ongoing evolution of the unchained shop. It contains:
 - [ ] 2018.02 [Fundraiser: Presale](fundraiser.md)
 - [ ] 2018.04 Staff & Community Ramp Up
 - [ ] 2018.04 [Fundraiser: Public Sale](fundraiser.md)
-- [ ] 2018.08 Unchained 1.0
+- [ ] 2018.08 Unchained 1.0 Release & Ramp-up of SaaS Engineering
 - [ ] 2019.01 First Unchained Conference Zermatt, Focus: Roadmap 2.0 & Enterprise Services
 - [ ] 2020.01 Second Unchained Conference Zermatt, Focus: Roadmap 3.0 & Global Community
 - [ ] 2020.12 Break even
