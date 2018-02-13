@@ -17,33 +17,35 @@ This repository tracks the ongoing evolution of the unchained shop. It contains:
 - [ ] 2018.02 [Fundraiser: Presale](fundraiser.md)
 - [ ] 2018.04 Staff & Community Ramp Up
 - [ ] 2018.04 [Fundraiser: Public Sale](fundraiser.md)
-- [ ] 2018.08 Open-Source release: Release of unchained engine 1.0 and admin UI 1.0. If we hit the hard-cap, we will release everything under the very permissive MIT license terms. Else we will be licensing the e-commerce platform under a stricter AGPLv3. After that day we will try to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
+- [ ] 2018.08 Unchained 1.0
 - [ ] 2019.01 First Unchained Conference Zermatt, Focus: Roadmap 2.0 & Enterprise Services
 - [ ] 2020.01 Second Unchained Conference Zermatt, Focus: Roadmap 3.0 & Global Community
 - [ ] 2020.12 Break even
 
-## Development major version:  unchained 1.0
+## Development major version: unchained 1.0
 
-Expected release date: Late 2018
+**Release Date**
 
-### Primary Task: Open Source Readyness
+Expected: Q3 2018. After the release date we plan to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
+
+**Licensing**
+
+The unchained engine 1.0 will be released under the aGPLv3 license. But if we hit the hard-cap, we will release the unchained engine 1.0 and the unchained control panel under the very permissive MIT license terms.
+
+### Primary quest: Open Source Readyness
 
 The first version which will be publicly available. To do this we will have to unchain some major components from the reference implementation and move code which is customer-specific out of the base branch.
 
 The following tasks are currently blocking the first OSS version of our product:
 
-- [ ] 3 Agencies as partners
+- [ ] 3 Agencies as partners
 - [ ] Funding for the next few months of product development (either through ICO, bootstrapping or private equity)
-- [ ] [SE-0001: Untangle to Open Source](proposals/0001-open-source.md)
+- [ ] [SE-0001: Untangle](proposals/0001-open-source.md)
 
-## Non-development tasks
+## Side quests
 
 Beyond the most important part of bringing the engine out to public, we will always invest time and money into these tasks:
 
-- **Tech Best Practice (Continous Refactoring)**. We want to further establish technical best practice in our products like pointer-based paging in graphql or better exception/error handling
-
-- **Community**. We will invest a big amount of time not only coding but also building up a dev-friendly community
+- **Community**. We will invest time not only coding but also building up a dev-friendly community
 
 - **Documentation**. We will release API docs, guides and example code along the way to make it exxtremely easy for a Javascript developer to start his own E-Commerce project.
-
-- **Testing**. At the moment, 90% of the code is untested and we know this is bad. While we refactor and decouple / "unchain" the engine we also want to improve the stability
