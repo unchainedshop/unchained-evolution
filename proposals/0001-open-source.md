@@ -1,6 +1,6 @@
 # Untangle to Open Source
 
-* Proposal: [SE-0001](0001-open-source.md)
+* Proposal: [SE-0001][1]
 * Authors: @pozylon @fliptation
 * Status: **Awaiting Implementation**
 * Breaking: Yes
@@ -26,10 +26,12 @@ Removing the chains from customer projects and implement missing mandatory plugi
 - [x] Plugins as reusable Package
 - [x] GraphQL API as reusable Package
 - [x] [Whole engine as reusable Package](https://github.com/xecutors/unchained/issues/26)
-- [ ] [Stock Plugins](https://github.com/xecutors/unchained/issues/21)
+- [x] [Stock Plugins](https://github.com/xecutors/unchained/issues/21)
 - [ ] [Address schema customization (i18n)](https://github.com/xecutors/unchained/issues/14)
 - [ ] [GraphQL Scheme 1.0 (Pointers, Edges, Response Types missing)](https://github.com/xecutors/unchained/issues/12)
 - [ ] [Tests](https://github.com/xecutors/unchained/issues/3)
 
 **Other**:
 - [x] [Blog setup](https://github.com/xecutors/unchained/issues/17)
+
+[1]:	0001-open-source.md
