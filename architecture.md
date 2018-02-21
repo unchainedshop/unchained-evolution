@@ -8,7 +8,7 @@ All Public Documents & Feature Requests can be found on our central
 ## Platform State of the Union
 
 **Unchained Engine**
-Backend Engine, Closed Source but will be OSS in a few months. 
+Backend Engine, Closed Source but will be OSS in a few months.
 - Current version: 0.1
 - [Github Repository (private)][2]
 - DB: MongoDB
@@ -17,7 +17,7 @@ Backend Engine, Closed Source but will be OSS in a few months.
 - Core Libraries: Apollo Server, Meteor Accounts system, Meteor DBMS
 
 **Unchained.shop Storefront**
-Storefront UI used for freezyboy.com and unchained.shop, OSS. 
+Storefront UI used for freezyboy.com and unchained.shop, OSS.
 - Current version: 0.1
 - [Github Repository][3]
 - Programming language: Javascript ES6
@@ -42,7 +42,8 @@ Custom Unchained instance that allows plugin developers sell their custom made e
 
 ## Programming languages
 
-The only programming language used in our products currently is Javascript ES6. We plan to diversify more in the future.
+The only programming language used in our products currently is Javascript ES6. We plan to diversify more in the future by building new server-side microservices with modern programming languages like Rust, Swift or Go.
+
 
 [1]:	https://github.com/unchainedshop/unchained-evolution
 [2]:	https://github.com/xecutors/unchained

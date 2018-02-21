@@ -11,7 +11,7 @@ Competition Overview / Gartner Quadrant
 
 ## Motivation
 
-There are so many different e-commerce solutions available today. Shops, Marketplaces, in various shapes and flavors. As a service, open-source, proprietary. Part of a bigger CMS, standalone, headless.
+There are so many different digital commerce solutions available today. Shops, Marketplaces, in various shapes and flavors. As a service, open-source, proprietary. Part of a bigger CMS, standalone, headless.
 
 ## Proposed solution
 

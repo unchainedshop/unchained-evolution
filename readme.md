@@ -11,7 +11,7 @@ This document here outlines our long-term roadmap for the company and our next m
 ## Roadmap
 
 **2017**
-- [x] 2017.04 Sketch out the architecture of a headless e-commerce platform
+- [x] 2017.04 Sketch out the architecture of a headless digital commerce platform
 - [x] 2017.06 Signed first customer contract
 - [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
 

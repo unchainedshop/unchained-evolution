@@ -1,6 +1,8 @@
 # Proposals
 
 
+## Status
+
 **Draft**
 
 - [SE-0002](0002-competition-map.md)
@@ -23,3 +25,18 @@
 **Implemented**
 
 -
+
+**Inactive**
+
+-
+
+## New Feature Request
+
+Fork this repository, copy the [SE-0000 Template](0000-proposal-template.md) give it a random number and name and describe the feature in detail.
+Once you have a first draft send us a pull request. If we consider that the feature might be relevant for the product, we will
+- Adjust the filename and SE number in your fork
+- Merge it with our repository without closing the pull request
+- List the feature request here in this file
+
+
+That way you can now continue working on spec until it eventually finds it's way into our product roadmap and get's implemented.
