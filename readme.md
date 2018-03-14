@@ -18,12 +18,13 @@ This document here outlines our long-term roadmap for the company and our next m
 **Q1 2018**
 - [x] 2018.01 Landing Page
 - [x] Roadmap 1.0
-- [ ] Ramp Up: Partner Program for Agencies & Roadshow
-- [ ] [Fundraiser: Presale](fundraiser.md)
+- [ ] Ramp Up: Partner Program for Agencies
 
 **Q2 2018**
-- [ ] Ramp Up: Staff & Community Management
+- [ ] Roadshow
+- [ ] [Fundraiser: Presale](fundraiser.md)
 - [ ] [Fundraiser: Public Sale](fundraiser.md)
+- [ ] Ramp Up: Staff
 
 **Q3 2018**
 - [ ] Release of Unchained Platform 1.0 as OSS

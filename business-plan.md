@@ -22,7 +22,7 @@ That was the hour of birth of the unchained.shop platform.
 Bootstrapped by 2 Freelancers:
 
 - **Pascal Kaufmann**, 30, Software Engineer & Operations, Founder of Reactive Code GmbH
-- **Vedran Rudelj**, 38, Interaction Designer & Finances, Founder of Fliptation GmbH
+- **Vedran Rudelj**, 39, Interaction Designer & Finances, Founder of Fliptation GmbH
 
 That power team has almost everything which is needed to build the company.
 
@@ -69,7 +69,7 @@ Building an enterprise storefront includes evaluating digital commerce platforms
 
 Unchained is not trying to create an online shop which can be configured by a non-developer, the software flow is changed through code and not through UI. This means a software developer is always required to configure the platform. It's called "hackable" software and allows to configure even parts of the software that were not intended to get configured by the core developers.
 
-**USP**
+**Product Innovation**
 
 Connecting the two factors hackable & headless means:
 - Possibility to integrate the platform with any kind of device popping up that has internet connection
@@ -178,12 +178,16 @@ This market analysis is based on data from the following sources:
 
 ## Digital Commerce Platform Market (software architecture)
 
+In a world of digital commerce, the user experience gets more and more important. Some digital commerce providers differentiate themselves already from their competitors by introducing 360-Degree-Videos / Virtual-Reality-enabled-content on their shop platforms. To make those fine-grained shop individualizations a reality, the underlying shopping platform has to be increasingly flexible.
+
+Headless is the most flexible architecture allowing completely individual user interfaces, followed by semi-headless (Core functionalities exposed through API's) and monolithic architectures.
+
 **Headless**
 - [Snipcart][16]
 - [Ordercloud][17]
 - [GoCommerce][18]
 
-**Provides REST API’s for restricted feature sets**
+**Semi-headless (Specific parts of the system exposed through API)**
 - [Spree Commerce][19]
 - Shopify
 - Magento 2
@@ -199,13 +203,13 @@ This market analysis is based on data from the following sources:
 - Salesforce Demandware
 - …
 
-There are many reasons to go headless:
+There are many more reasons to go headless:
 - [https://ordercloud.io/headless-ecommerce-guide/][20]
 - [https://lamia.fi/en/blog/headless-ecommerce][21]
 - [https://public.four51.com/headless-ecommerce-platforms-future-saas/][22]
 - [http://www.greenlightcommerce.com/headless-commerce-b2c-commerce-suites/][23]
 
-## USP
+## Filling the gap
 
 Open Source is growing rapidly in the enterprise market and at the same time, headless platforms and headless-enabling technologies like GraphQL start to show the true potential.
 
@@ -213,13 +217,18 @@ But there are currently no headless digital commerce platforms which are open so
 
 ## Customer Segment
 
-Small e-commerce shops today have a variety of options to sell their products easily through SaaS providers like Shopify.
+Small e-commerce shops today have a variety of options to sell their products easily through SaaS providers like Shopify or equivalent solutions which provide superior easy CMS possibilities that allows anyone to create a simple online shop. SaaS solutions on the other hand can not compete with flexible systems like WooCommerce, Magento, Hybris, etc. if more-than-usual individualization is required.
 
-Unchained.shop will not compete in that area and is developed for and suits the requirements of enterprise grade digital commerce with more than USD 20’000 of revenue per month.
+Eliminating consumers and sme markets and taking business model and software architecture into account, Unchained.shop is generally suited for mid- to large digital commerce applications with more than USD 20’000 of revenue per month that want to deliver a superior digital commerce user experience to their customers.
+
+**Therefore the customer segment of unchained.shop is software development agencies that do the heavy lifting of setting up and developing these highly individual user interfaces and therefore need a flexible platform to supercharge their digital commerce projects.**
+
 
 # Financial Forecasts
 
+TODO: @fliptation
 
+Please visit [our Roadmap](readme.md) for references
 
 # Token Generation Event
 
