@@ -46,7 +46,7 @@ Finances, Taxes, Law, Office
 
 ## Dates
 
- 1. Pre-Sale Starts 02.04.2018, Minimum of 2'000 Tokens per interested Buyer, Whitelisting required
- 2. Pre-Sale Ends 31.05.2018 or when 60% of Hard Cap is reached
- 3. Public Sale: Start 02.06.2018
- 4. Public Sale: Ends 30.06.2018 or when Hard Cap is reached
+ 1. Pre-Sale Starts Q2 2018, Minimum of 2'000 Tokens per interested Buyer, Whitelisting required
+ 2. Pre-Sale Ends Q3 2018 or when 60% of Hard Cap is reached
+ 3. Public Sale: Starts Q3 2018
+ 4. Public Sale: Ends Q4 2019 or when Hard Cap is reached

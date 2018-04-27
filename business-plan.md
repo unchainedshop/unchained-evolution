@@ -226,7 +226,33 @@ Eliminating consumers and sme markets and taking business model and software arc
 
 # Financial Forecasts
 
-TODO: @fliptation
+Forecast in KCHF (thousands of swiss francs)
+
+**Revenue Sources:**
+
+|                            | 2018 | 2019 | 2020 | 2021 | 2022 |
+|----------------------------|------|------|------|------|------|
+| Managed Hosting            |      | 💸    | 💸💸   | 💸💸   | 💸💸💸  |
+| Partner Programs & Support | 💸    | 💸💸   | 💸💸   | 💸💸💸  | 💸💸💸  |
+| Additional Services        |      |      | 💸    | 💸💸   | 💸💸💸  |
+
+**Cost Structure (FTE's):**
+
+|                            | 2018 | 2019 | 2020 | 2021 | 2022 |
+|----------------------------|------|------|------|------|------|
+| Engineering | 1    | 2   | 3   | 4  | 4  |
+| Sales & Marketing            |      | 0.5    | 1   | 2   | 3.5  |
+| Events & Administration        |      |   0.5   | 1    | 1   | 1.5  |
+
+
+**Projected Earnings:**
+
+|                     | 2018 | 2019 | 2020 | 2021 | 2022 |
+|---------------------|------|------|------|------|------|
+| **Revenue**         | 155  | 360  | 840  | 1795 | 3350 |
+| **Recurring Costs** | 150  | 360  | 600  | 900  | 1140 |
+| **Earnings**        | 5    | 0    | 260  | 895  | 2210 |
+
 
 Please visit [our Roadmap](readme.md) for references
 

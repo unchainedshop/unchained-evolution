@@ -10,35 +10,34 @@ This document here outlines our long-term roadmap for the company and our next m
 
 ## Roadmap
 
-**2017**
+**Past**
 - [x] 2017.04 Sketch out the architecture of a headless digital commerce platform
 - [x] 2017.06 Signed first customer contract
 - [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
-
-**Q1 2018**
 - [x] 2018.01 Landing Page
-- [x] Roadmap 1.0
-- [ ] Ramp Up: Partner Program for Agencies
+- [x] 2018.03 Release Roadmap 1.0
+- [x] 2018.04 Init Partner Program for Agencies
 
-**Q2 2018**
-- [ ] Roadshow
+**Q2-Q4 2018**
+- [ ] Roadshow for Swiss agencies
 - [ ] [Fundraiser: Presale](fundraiser.md)
 - [ ] [Fundraiser: Public Sale](fundraiser.md)
-- [ ] Ramp Up: Staff
 
-**Q3 2018**
+**Q1-Q2 2019**
+- [ ] Release of Unchained Managed Hosting
 - [ ] Release of Unchained Platform 1.0 as OSS
-- [ ] Release of Unchained Control Panel 1.0 as SaaS
+- [ ] Release Roadmap 2.0
 
-**2019**
-- [ ] Release of Unchained Managed Hosting 1.0 as SaaS
-- [ ] Release of Plugin Marketplace 1.0 as SaaS
-- [ ] First Unchained Conference Zermatt, Focus: Roadmap 2.0 & Enterprise Services
+**Q3-Q4 2019**
+- [ ] Release of Plugin Marketplace 1.0 Beta as SaaS
+- [ ] Release of Unchained Control Panel 1.0 Beta as SaaS
+- [ ] Unchained Conference 2019
 
 **2020**
-- [ ] Crazy Magic Things
-- [ ] Second Unchained Conference Zermatt, Focus: Roadmap 3.0 & Global Community
-- [ ] Break even
+- [ ] Release Roadmap 3.0
+- [ ] Global Roadshow
+- [ ] Unchained Conference 2020
+
 
 You can find more technical details about our roadmap, how everything works together and what features might pop up sooner or later in [Software Architecture](architecture.md) and [Proposal Index](proposals/proposals.md).
 
@@ -46,7 +45,7 @@ You can find more technical details about our roadmap, how everything works toge
 
 **Release Date**
 
-Expected: Q3 2018. After the release date we plan to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
+Expected: Q1 2019. After the release date we plan to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
 
 **Licensing**
 
@@ -58,7 +57,7 @@ The first version which will be publicly available. To do this we will have to u
 
 The following tasks are currently blocking the first OSS version of our product:
 
-- [ ] 3 Agencies as partners
+- [ ] 5 Agencies as partners
 - [ ] Funding for the next few months of product development (either through ICO, bootstrapping or private equity)
 - [ ] [SE-0001: Untangle](proposals/0001-open-source.md)
 
