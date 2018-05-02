@@ -256,7 +256,9 @@ Forecast in KCHF (thousands of swiss francs)
 
 Please visit [our Roadmap](readme.md) for references
 
-# Token Generation Event
+# Contact
+
+hello@unchained.shop
 
 [1]:	https://fivelines.ch
 [2]:	http://slicingpie.com
