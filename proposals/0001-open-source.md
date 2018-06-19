@@ -27,7 +27,7 @@ Removing the chains from customer projects and implement missing mandatory plugi
 - [x] GraphQL API as reusable Package
 - [x] [Whole engine as reusable Package](https://github.com/xecutors/unchained/issues/26)
 - [x] [Stock Plugins](https://github.com/xecutors/unchained/issues/21)
-- [ ] [Address schema customization (i18n)](https://github.com/xecutors/unchained/issues/14)
+- [x] [Address schema customization (i18n)](https://github.com/xecutors/unchained/issues/14)
 - [ ] [GraphQL Scheme 1.0 (Pointers, Edges, Response Types missing)](https://github.com/xecutors/unchained/issues/12)
 - [ ] [Tests](https://github.com/xecutors/unchained/issues/3)
 
