@@ -19,15 +19,15 @@ That was the hour of birth of the unchained.shop platform.
 
 ##  Team
 
-Bootstrapped by 2 Freelancers:
+Bootstrapped by 2 Entrepreneurs:
 
 - **Pascal Kaufmann**, 30, Software Engineer & Operations, Founder of Reactive Code GmbH
-- **Vedran Rudelj**, 39, Interaction Designer & Finances, Founder of Fliptation GmbH
+- **Vedran Rudelj**, 39, Interaction Design Engineer & Finances, Founder of Fliptation GmbH
 
 That power team has almost everything which is needed to build the company.
 
-- Vedran has 10 years of web design and interaction design experience, already built a shop platform for B2C: https://www.kickshops.ch (like Shopify) and knows how to calculate as a former funds manager at Credit Suisse.
-- Pascal has 10 years of sofware development experience in web & native apps, lead a team at Swisscom and was once a SAP consultant and network engineer.
+- Vedran is an Interaction Design Engineer who enjoys to design & develop components, style guides, websites, apps & shops. Running Kickshops (https://kickshops.com) & Unchained Commerce.
+- Pascal has 10 years of software development experience in web & native apps, lead a team at Swisscom and was once a SAP consultant and network engineer.
 
 Both of them studied business administration and work for their own companies since many years.
 
@@ -35,7 +35,7 @@ We are still looking for somebody to relieve us with the PR, Sales & Social Medi
 
 ## Vision
 
-Building the next-generation digital commerce experience for today's web agencies.
+Become the next global market leader in digital commerce, unchaining enterprises from monolithic proprietary software.
 
 ## Situation
 
@@ -126,10 +126,10 @@ To fully concentrate on the product development, unchained will not build storef
   - Unchained Cluster Meetups (monthly)
   - Unchained Worldwide Developer Conference (annually)
 - Partner Program
-  - Excklusively use the partner logo
+  - Exclusively use the partner logo
   - Access to software previews
   - Marketed on the page and in PR / Social Media
-  - Guaranted Conference Speach Seats
+  - Guaranteed Conference Speech Seats
   - Free admission to the UWDC
   - Revenue Share for Hosting & Plugin Marketplace
 - Developer Support
@@ -166,7 +166,7 @@ Based on the 10K web store statistics from https://blog.aheadworks.com/ecommerce
 - [Foxy.io][8]
 
 What is our conclusion?
-1. Small Shops don't use proprietary licsensed digital commerce systems (uneconomical to do so because of high license fees and setup costs)
+1. Small Shops don't use proprietary licensed digital commerce systems (uneconomical to do so because of high license fees and setup costs)
 2. Big Shops don't use SaaS (price is not an issue, feature requirements can't be met, integration barriers are too high)
 3. OSS platforms rule the mid- to enterprise sectors and [grow faster][9] than [proprietary platforms][10]. [even in the enterprise sector][11]
 
@@ -213,13 +213,13 @@ There are many more reasons to go headless:
 
 Open Source is growing rapidly in the enterprise market and at the same time, headless platforms and headless-enabling technologies like GraphQL start to show the true potential.
 
-But there are currently no headless digital commerce platforms which are open source at the same time. Unchained will fit into that spot by combining a state of the art exxtremely flexible headless API based on GraphiQL and a true Open Source business model.
+But there are currently no headless digital commerce platforms which are open source at the same time. Unchained will fit into that spot by combining a state of the art extremely flexible headless API based on GraphQL and a true open-source business model.
 
 ## Customer Segment
 
 Small e-commerce shops today have a variety of options to sell their products easily through SaaS providers like Shopify or equivalent solutions which provide superior easy CMS possibilities that allows anyone to create a simple online shop. SaaS solutions on the other hand can not compete with flexible systems like WooCommerce, Magento, Hybris, etc. if more-than-usual individualization is required.
 
-Eliminating consumers and sme markets and taking business model and software architecture into account, Unchained.shop is generally suited for mid- to large digital commerce applications with more than USD 20’000 of revenue per month that want to deliver a superior digital commerce user experience to their customers.
+Eliminating consumers and SME markets and taking business model and software architecture into account, Unchained.shop is generally suited for mid- to large digital commerce applications with more than USD 20’000 of revenue per month that want to deliver a superior digital commerce user experience to their customers.
 
 **Therefore the customer segment of unchained.shop is software development agencies that do the heavy lifting of setting up and developing these highly individual user interfaces and therefore need a flexible platform to supercharge their digital commerce projects.**
 
