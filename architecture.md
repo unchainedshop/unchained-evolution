@@ -9,11 +9,11 @@ All Public Documents & Feature Requests can be found on our central
 
 **Unchained Engine**
 Backend Engine, Closed Source but will be OSS in a few months.
-- Current version: 0.1
+- Current version: 0.2
 - [Github Repository (private)][2]
 - DB: MongoDB
 - Programming language: Javascript ES6
-- Platform: Meteor.js 1.6 (Node.js carbon)
+- Platform: Meteor.js 1.7 (Node.js carbon)
 - Core Libraries: Apollo Server, Meteor Accounts system, Meteor DBMS
 
 **Unchained.shop Storefront**
@@ -21,15 +21,15 @@ Storefront UI used for freezyboy.com and unchained.shop, OSS.
 - Current version: 0.1
 - [Github Repository][3]
 - Programming language: Javascript ES6
-- Platform: Next.js 5 & Micro 9
+- Platform: Next.js 6 & Micro 9
 - Core Libraries: React.js, Apollo Client
 
 **Unchained Admin UI**
 Unchained on demand Admin UI, Closed Source. A very basic initial version will get released and handed over to the community.
-- Current version: 0.1
+- Current version: 0.3
 - [Github Repository][4]
 - Programming language: Javascript ES6 (Node.js carbon LTS)
-- Platform: Zeit Next.js 5
+- Platform: Zeit Next.js 6
 - Core Libraries: Facebook React.js, MDG Apollo Client
 
 ** Unchained Control Panel**

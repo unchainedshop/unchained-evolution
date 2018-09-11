@@ -12,8 +12,6 @@ Removing the chains from customer projects and implement missing mandatory plugi
 - [x] Customizable Mail Templates
 - [x] Bitcoin Payment Plugin
 - [x] Ethereum Payment Plugin
-- [ ] Stellar Payment Plugin
-- [ ] "Token Distribution" Delivery Plugin (ICO)
 - [ ] [Cart Sanity Check & Safe Migration](https://github.com/xecutors/unchained/issues/27)
 
 **Required refactorings**:
@@ -28,7 +26,7 @@ Removing the chains from customer projects and implement missing mandatory plugi
 - [x] [Whole engine as reusable Package](https://github.com/xecutors/unchained/issues/26)
 - [x] [Stock Plugins](https://github.com/xecutors/unchained/issues/21)
 - [x] [Address schema customization (i18n)](https://github.com/xecutors/unchained/issues/14)
-- [ ] [GraphQL Scheme 1.0 (Pointers, Edges, Response Types missing)](https://github.com/xecutors/unchained/issues/12)
+- [ ] [GraphQL Scheme 1.0 (Response Types missing)](https://github.com/xecutors/unchained/issues/12)
 - [ ] [Tests](https://github.com/xecutors/unchained/issues/3)
 
 **Other**:

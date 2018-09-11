@@ -20,8 +20,6 @@ This document here outlines our long-term roadmap for the company and our next m
 
 **Q2-Q4 2018**
 - [ ] Roadshow for Swiss agencies
-- [ ] [Fundraiser: Presale](fundraiser.md)
-- [ ] [Fundraiser: Public Sale](fundraiser.md)
 
 **Q1-Q2 2019**
 - [ ] Release of Unchained Managed Hosting
@@ -49,7 +47,7 @@ Expected: Q1 2019. After the release date we plan to release new stable versions
 
 **Licensing**
 
-The unchained engine 1.0 will be released under the aGPLv3 license. But if we hit the hard-cap, we will release the unchained engine 1.0 and the unchained control panel under the very permissive MIT license terms.
+The unchained engine 1.0 will be released under the aGPLv3 license.
 
 ### Primary quest: Open Source Readyness
 
@@ -58,7 +56,7 @@ The first version which will be publicly available. To do this we will have to u
 The following tasks are currently blocking the first OSS version of our product:
 
 - [ ] 5 Agencies as partners
-- [ ] Funding for the next few months of product development (either through ICO, bootstrapping or private equity)
+- [x] Funding for the next few months of product development
 - [ ] [SE-0001: Untangle](proposals/0001-open-source.md)
 
 ## Side quests

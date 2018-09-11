@@ -8,7 +8,6 @@
 - [SE-0002](0002-competition-map.md)
 - [SE-0003](0003-burnable-discounts.md)
 - [SE-0004](0004-payment-requests.md)
-- [SE-0006](0006-venues.md)
 - [SE-0007](0007-reports.md)
 - [SE-0008](0008-event-bus.md)
 - [SE-0009](0009-referral-discounts.md)
@@ -20,6 +19,8 @@
 **Awaiting Implementation**
 
 - [SE-0001](0001-open-source.md)
+- [SE-0006](0006-venues.md)
+- [SE-0010](0010-dynamic-filters.md)
 
 **Implemented**
 

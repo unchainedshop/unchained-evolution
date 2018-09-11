@@ -2,8 +2,8 @@
 
 * Proposal: [SE-0006](0006-venues.md)
 * Authors: @pozylon
-* Status: **Draft**
-* Breaking: TBD
+* Status: **Awaiting Implementation**
+* Breaking: No
 
 ## Introduction
 
