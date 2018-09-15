@@ -20,11 +20,11 @@
 
 - [SE-0001](0001-open-source.md)
 - [SE-0006](0006-venues.md)
-- [SE-0010](0010-dynamic-filters.md)
 
 **Implemented**
 
 - [SE-0005](0005-catalogs.md)
+- [SE-0010](0010-dynamic-filters.md)
 
 **Inactive**
 
