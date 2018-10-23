@@ -2,7 +2,7 @@
 
 * Proposal: [SE-0010](0010-dynamic-filters.md)
 * Authors: @pozylon
-* Status: **Awaiting Implementation**
+* Status: **Implemented**
 * Breaking: Yes
 
 ## Introduction
