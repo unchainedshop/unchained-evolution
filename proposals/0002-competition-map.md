@@ -1,8 +1,8 @@
 # Competition Overview
 
 * Proposal: [SE-0002](0002-competition-map.md)
-* Authors: @pozylon
-* Status: **Draft**
+* Authors: @fliptation
+* Status: **Implemented**
 * Breaking: No
 
 ## Introduction

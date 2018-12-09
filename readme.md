@@ -19,7 +19,7 @@ This document here outlines our long-term roadmap for the company and our next m
 - [x] 2018.04 Init Partner Program for Agencies
 
 **Q2-Q4 2018**
-- [ ] Roadshow for Swiss agencies
+- [x] Roadshow for Swiss agencies
 
 **Q1-Q2 2019**
 - [ ] Release of Unchained Managed Hosting
@@ -47,7 +47,7 @@ Expected: Q1 2019. After the release date we plan to release new stable versions
 
 **Licensing**
 
-The unchained engine 1.0 will be released under the aGPLv3 license.
+The unchained engine 1.0 will be released under the EUPL 1.2 license.
 
 ### Primary quest: Open Source Readyness
 
@@ -57,7 +57,7 @@ The following tasks are currently blocking the first OSS version of our product:
 
 - [ ] 5 Agencies as partners
 - [x] Funding for the next few months of product development
-- [ ] [SE-0001: Untangle](proposals/0001-open-source.md)
+- [x] [SE-0001: Untangle](proposals/0001-open-source.md)
 
 ## Side quests
 
@@ -66,3 +66,6 @@ Beyond the most important part of bringing the engine out to public, we will alw
 - **Community**. We will invest time not only coding but also building up a dev-friendly community
 
 - **Documentation**. We will release API docs, guides and example code along the way to make it exxtremely easy for a Javascript developer to start his own E-Commerce project.
+
+
+Licensed under the EUPL 1.2

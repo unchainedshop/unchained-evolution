@@ -1,5 +1,5 @@
-digital commerce# Business plan
-*unchained.shop 2018*
+# Business plan
+*unchained.shop 2018-2019*
 
 Authors: P. Kaufmann, V. Rudelj
 
@@ -91,18 +91,18 @@ To fully concentrate on the product development, unchained will not build storef
 | Plugins     | | Engine      |  |  | Plugins     | | Projects    |
 |             | |             |  |  |             | |             |
 +-------------+ +-------------+  |  +-------------+ +-------------+
-                +-------------+  |  +-------------+ +-------------+
-                |             |  |  |             | |             |
-                | Storefront  |  |  | ERP         | | Consulting  |
-                | Template    |  |  | Connectors  | |             |
-                |             |  |  |             | |             |
-                +-------------+  |  +-------------+ +-------------+
++-------------+ +-------------+  |  +-------------+ +-------------+
+|             | |             |  |  |             | |             |
+| Control     | | Storefront  |  |  | ERP         | | Consulting  |
+| Panel       | | Template    |  |  | Connectors  | |             |
+|             | |             |  |  |             | |             |
++-------------+ +-------------+  |  +-------------+ +-------------+
                                  |
   Unchained (SaaS, commercial)   |
 +-------------+ +-------------+  |
 |             | |             |  |
-| Hosting     | | Control     |  |
-| Platform    | | Panel       |  |
+| Hosting     | | Big Data &  |  |
+| Platform    | | AI Tools    |  |
 |             | |             |  |
 +-------------+ +-------------+  |
                 +-------------+  |
@@ -113,15 +113,13 @@ To fully concentrate on the product development, unchained will not build storef
                 +-------------+  +
 ```
 
-
 **Software as a Service**
-- Unchained Control Panel
-  - Reporting & Analytics
-  - Users, Products & Orders
 - Managed Hosting (Choose plugins, push to deploy, get your GraphQL endpoint, from 200/month)
 - Plugin Marketplace
+- Big Data, Analytics & AI Microservices that connect to the Unchained backend
 
 **Professional Services**:
+- Shop Projects
 - Events & Trainings
   - Unchained Cluster Meetups (monthly)
   - Unchained Worldwide Developer Conference (annually)
@@ -232,9 +230,9 @@ Forecast in KCHF (thousands of swiss francs)
 
 |                            | 2018 | 2019 | 2020 | 2021 | 2022 |
 |----------------------------|------|------|------|------|------|
-| Managed Hosting            |      | 💸    | 💸💸   | 💸💸   | 💸💸💸  |
-| Partner Programs & Support | 💸    | 💸💸   | 💸💸   | 💸💸💸  | 💸💸💸  |
-| Additional Services        |      |      | 💸    | 💸💸   | 💸💸💸  |
+| Managed Hosting            |      | 💸    | 💸💸   | 💸💸   | 💸💸💸💸 |
+| Partner Programs & Support | 💸    | 💸💸   | 💸💸   | 💸💸💸  | 💸💸💸💸 |
+| Professional Services        | 💸💸   | 💸💸💸    | 💸💸💸  | 💸💸💸   | 💸💸💸  |
 
 **Cost Structure (FTE's):**
 

@@ -2,7 +2,7 @@
 
 * Proposal: [SE-0001][1]
 * Authors: @pozylon @fliptation
-* Status: **Awaiting Implementation**
+* Status: **Partially implemented**
 * Breaking: Yes
 
 This proposal mixed all remaining tasks together for a first v1.0 OSS release.
