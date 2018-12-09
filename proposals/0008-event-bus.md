@@ -11,7 +11,7 @@ Global event bus to trigger actions on db changes.
 
 ## Motivation
 
-A customer and unchained for it's fundraiser want to issue a slack message when a new user is registered.
+A customer wants to receive a slack message when a new user is registered.
 
 ## Proposed solution
 
