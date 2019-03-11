@@ -7,15 +7,13 @@ Authors: P. Kaufmann, V. Rudelj
 
 ## History
 
-Under the name fivelines, Pascal and Vedran have been asked to build a combined B2C/B2B online-shop for a startup called Avantyard early 2017. The guys of Avantyard just finished their very successful crowdfunding campaign for a new smell-free thrash bin: Freezyboy.
+Pascal and Vedran have been asked to build a combined B2C/B2B online-shop for a startup called Avantyard early 2017. The guys of Avantyard just finished their very successful crowdfunding campaign for a new smell-free thrash bin: Freezyboy.
 
-At fivelines we believe in cutting edge web app technology and when we started to evaluate existing shop platforms and tried to match the feature-sets with our requirements. After a while we found out that actually only one open-source digital commerce platform could suit as a base for the freezyboy shop at that time: Magento.
+We believe in cutting edge web app technology and when we started to evaluate existing shop platforms we tried to match the feature-sets with our requirements. After a while we found out that actually only one open-source digital commerce platform could suite as a base for the Freezyboy shop at that time: Magento.
 
 We had a look at the technology stack and then decided to build our own shop platform. A platform which is designed for the future.
 
 That was the hour of birth of the unchained.shop platform.
-
-[fivelines][1] is a joint-venture of Reactive Code GmbH and Fliptation GmbH.
 
 ##  Team
 
@@ -40,13 +38,6 @@ Become the next global market leader in digital commerce, unchaining enterprises
 ## Situation
 
 To build the current software stacks we have already invested tons of non-billable hours. All investments flow into a [Slicing Pie][2] equity splitting model.
-
-Costs (CHF 160'000)
-- CHF 5'000 Hard Money
-- CHF 155'000 (over 1'500 hours of work, CHF 100/h)
-
-Revenue (CHF 30'000)
-- GoLive of first customer project via our consulting label "fivelines": Freezyboy Online Shop
 
 # Products & Services
 
@@ -81,10 +72,15 @@ Unchained is the most flexible and future-proof digital commerce platform on the
 
 ## Service Portfolio
 
-To fully concentrate on the product development, unchained will not build storefronts and websites for sellers. We are going to build SaaS services to complement and fund the development of our open source software.
+Unchained strongly believes in the "eat your own dogfood" mantra and
+implements smaller online shops as a boutique to SME businesses with Unchained Engine.
+
+When the project is too big, we hand over the project to our partner agencies. For all of our developers, we provide developer support and managed hosting services.
+
+To further fund the development of our OSS components, we are going to build SaaS services to complement the OSS offerings and helps the developers to get out the most of Unchained.
 
 ```
-     Unchained (free, OSS)       +          Partner Agencies
+         Unchained OSS           +          Partner Agencies
 +-------------+ +-------------+  |  +-------------+ +-------------+
 |             | |             |  |  |             | |             |
 | Common      | | Unchained   |  |  | Commercial  | | E-Commerce  |
@@ -93,44 +89,43 @@ To fully concentrate on the product development, unchained will not build storef
 +-------------+ +-------------+  |  +-------------+ +-------------+
 +-------------+ +-------------+  |  +-------------+ +-------------+
 |             | |             |  |  |             | |             |
-| Control     | | Storefront  |  |  | ERP         | | Consulting  |
-| Panel       | | Template    |  |  | Connectors  | |             |
+| Control     | | Templates   |  |  | ERP         | | Consulting  |
+| Panel       | |             |  |  | Connectors  | |             |
 |             | |             |  |  |             | |             |
 +-------------+ +-------------+  |  +-------------+ +-------------+
                                  |
-  Unchained (SaaS, commercial)   |
-+-------------+ +-------------+  |
-|             | |             |  |
-| Hosting     | | Big Data &  |  |
-| Platform    | | AI Tools    |  |
-|             | |             |  |
-+-------------+ +-------------+  |
-                +-------------+  |
-                |             |  |
-                | Plugin      |  |
-                | Marketplace |  |
-                |             |  |
-                +-------------+  +
+   Unchained for Enterprises     |         Unchained Boutique
++-------------+ +-------------+  |  +-------------+
+|             | |             |  |  |             |
+| Managed     | | Developer   |  |  | Online Shop |
+| Hosting     | | Support     |  |  | SME Package |
+|             | |             |  |  |             |
++-------------+ +-------------+  +  +-------------+
 ```
 
-**Software as a Service**
-- Managed Hosting (Choose plugins, push to deploy, get your GraphQL endpoint, from 200/month)
-- Plugin Marketplace
-- Big Data, Analytics & AI Microservices that connect to the Unchained backend
+**Managed Hosting**
+- Managed Hosting in Switzerland on a highly avaiable Docker Swarm Cluster
+- SLA, Phone Support, Performance Monitoring of Unchained
 
-**Professional Services**:
-- Shop Projects
+**Developer Support**:
+- Shop Project Support (Frontend, Backend, UX, CSS)
 - Events & Trainings
-  - Unchained Cluster Meetups (monthly)
-  - Unchained Worldwide Developer Conference (annually)
-- Partner Program
-  - Exclusively use the partner logo
+- Partner Contract
+  - Use the partner logo
   - Access to software previews
   - Marketed on the page and in PR / Social Media
   - Guaranteed Conference Speech Seats
-  - Free admission to the UWDC
-  - Revenue Share for Hosting & Plugin Marketplace
-- Developer Support
+
+**SaaS Tools**
+- Plugin Marketplace
+- Big Data, Analytics & AI Microservices that connect to the Unchained backend
+
+**Online Shop SME Package**:
+- Default Unchained Setup with all common plugins
+- GetCockpit CMS Integration
+- Multi-language Store Frontend with custom UI/UX
+- Photography, SEO, SEM services included
+- Only available in Switzerland currently: https://getunchained.ch
 
 #  Market & Competition
 
@@ -219,7 +214,9 @@ Small e-commerce shops today have a variety of options to sell their products ea
 
 Eliminating consumers and SME markets and taking business model and software architecture into account, Unchained.shop is generally suited for mid- to large digital commerce applications with more than USD 20’000 of revenue per month that want to deliver a superior digital commerce user experience to their customers.
 
-**Therefore the customer segment of unchained.shop is software development agencies that do the heavy lifting of setting up and developing these highly individual user interfaces and therefore need a flexible platform to supercharge their digital commerce projects.**
+**Therefore the primary customer segment of Unchained is software development agencies that do the heavy lifting of setting up and developing these highly individual user interfaces and therefore need a flexible platform to supercharge their digital commerce projects.**
+
+Using Unchained as a base for a more complete product, it can be used as a good starting point for smaller companies as well (5'000 - 20'000 online revenue per month). This is what **Unchained Boutique** is about, targeting SME's with a non-technical product on top of Unchained.
 
 
 # Financial Forecasts
@@ -230,9 +227,9 @@ Forecast in KCHF (thousands of swiss francs)
 
 |                            | 2018 | 2019 | 2020 | 2021 | 2022 |
 |----------------------------|------|------|------|------|------|
-| Managed Hosting            |      | 💸    | 💸💸   | 💸💸   | 💸💸💸💸 |
-| Partner Programs & Support | 💸    | 💸💸   | 💸💸   | 💸💸💸  | 💸💸💸💸 |
-| Professional Services        | 💸💸   | 💸💸💸    | 💸💸💸  | 💸💸💸   | 💸💸💸  |
+| Unchained Boutique         |      | 💸   | 💸💸   | 💸💸💸   | 💸💸💸💸 |
+| Unchained for Enterprises  | 💸   | 💸💸  | 💸💸   | 💸💸  | 💸💸💸 |
+| SaaS Services              |      | 💸 | 💸💸  | 💸💸   | 💸💸💸  |
 
 **Cost Structure (FTE's):**
 
@@ -258,7 +255,6 @@ Please visit [our Roadmap](readme.md) for references
 
 hello@unchained.shop
 
-[1]:	https://fivelines.ch
 [2]:	http://slicingpie.com
 [3]:	https://www.wired.com/2016/08/open-source-won-now/
 [4]:	https://github.com/osCommerce
