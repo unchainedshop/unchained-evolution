@@ -19,8 +19,8 @@ That was the hour of birth of the unchained.shop platform.
 
 Bootstrapped by 2 Entrepreneurs:
 
-- **Pascal Kaufmann**, 30, Software Engineer & Operations, Founder of Reactive Code GmbH
-- **Vedran Rudelj**, 39, Interaction Design Engineer & Finances, Founder of Fliptation GmbH
+- **Pascal Kaufmann**, 32, Software Engineer & Operations, Founder of Reactive Code GmbH
+- **Vedran Rudelj**, 40, Interaction Design Engineer & Finances, Founder of Fliptation GmbH
 
 That power team has almost everything which is needed to build the company.
 

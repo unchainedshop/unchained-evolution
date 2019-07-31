@@ -13,7 +13,7 @@ This document here outlines our long-term roadmap for the company and our next m
 **Past**
 - [x] 2017.04 Sketch out the architecture of a headless digital commerce platform
 - [x] 2017.06 Signed first customer contract
-- [x] 2017.11 GoLive with first Customer [Freezyboy](https://www.freezyboy.com)
+- [x] 2017.11 GoLive with first customer [Freezyboy](https://www.freezyboy.com)
 - [x] 2018.01 Landing Page
 - [x] 2018.03 Release Roadmap 1.0
 - [x] 2018.04 Init Partner Program for Agencies
@@ -22,16 +22,18 @@ This document here outlines our long-term roadmap for the company and our next m
 - [x] Roadshow for Swiss agencies
 
 **Q1-Q2 2019**
-- [ ] Release of Unchained Managed Hosting
-- [ ] Release of Unchained Platform 1.0 as OSS
+- [x] 2019.01 GoLive with second customer [Publicare](https://www.publicare.ch)
+- [x] Checkout Conf
+- [x] GoLive Unchained Express
 - [ ] Release Roadmap 2.0
 
 **Q3-Q4 2019**
-- [ ] Release of Plugin Marketplace 1.0 Beta as SaaS
-- [ ] Release of Unchained Control Panel 1.0 Beta as SaaS
+
+- [ ] Release of Unchained Managed Hosting Beta
 - [ ] Unchained Conference 2019
 
 **2020**
+- [ ] Release of Unchained Control Panel 1.0 Beta as SaaS
 - [ ] Release Roadmap 3.0
 - [ ] Global Roadshow
 - [ ] Unchained Conference 2020
@@ -39,15 +41,6 @@ This document here outlines our long-term roadmap for the company and our next m
 
 You can find more technical details about our roadmap, how everything works together and what features might pop up sooner or later in [Software Architecture](architecture.md) and [Proposal Index](proposals/proposals.md).
 
-## Development major version: unchained 1.0
-
-**Release Date**
-
-Expected: Q1 2019. After the release date we plan to release new stable versions of unchained on a monthly rhythm and canary releases weekly.
-
-**Licensing**
-
-The unchained engine 1.0 will be released under the EUPL 1.2 license.
 
 ### Primary quest: Open Source Readyness
 
@@ -55,7 +48,6 @@ The first version which will be publicly available. To do this we will have to u
 
 The following tasks are currently blocking the first OSS version of our product:
 
-- [ ] 5 Agencies as partners
 - [x] Funding for the next few months of product development
 - [x] [SE-0001: Untangle](proposals/0001-open-source.md)
 
