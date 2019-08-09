@@ -195,7 +195,7 @@ providing support plans & hosting to a global audience.
 
 3. Use that money to build additional apps (analytics, marketplace, insights).
 
-# Contact
+# Contact
 
 hello@unchained.shop
 
