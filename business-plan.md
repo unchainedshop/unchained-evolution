@@ -41,7 +41,7 @@ To build the current software stacks we have already invested tons of non-billab
 
 # Products & Services
 
-## Platform
+## Unchained Engine
 
 Unchained.shop is an open-source omni-channel digital commerce platform for the IOT.
 
@@ -75,57 +75,24 @@ Unchained is the most flexible and future-proof digital commerce platform on the
 Unchained strongly believes in the "eat your own dogfood" mantra and
 implements smaller online shops as a boutique to SME businesses with Unchained Engine.
 
-When the project is too big, we hand over the project to our partner agencies. For all of our developers, we provide developer support and managed hosting services.
+When the project is too big, we hand over the project to our partner agencies. For all of our developers, we provide developer support plans and managed hosting services.
 
-To further fund the development of our OSS components, we are going to build SaaS services to complement the OSS offerings and helps the developers to get out the most of Unchained.
-
-```
-         Unchained OSS           +          Partner Agencies
-+-------------+ +-------------+  |  +-------------+ +-------------+
-|             | |             |  |  |             | |             |
-| Common      | | Unchained   |  |  | Commercial  | | E-Commerce  |
-| Plugins     | | Engine      |  |  | Plugins     | | Projects    |
-|             | |             |  |  |             | |             |
-+-------------+ +-------------+  |  +-------------+ +-------------+
-+-------------+ +-------------+  |  +-------------+ +-------------+
-|             | |             |  |  |             | |             |
-| Control     | | Templates   |  |  | ERP         | | Consulting  |
-| Panel       | |             |  |  | Connectors  | |             |
-|             | |             |  |  |             | |             |
-+-------------+ +-------------+  |  +-------------+ +-------------+
-                                 |
-   Unchained for Enterprises     |         Unchained Boutique
-+-------------+ +-------------+  |  +-------------+
-|             | |             |  |  |             |
-| Managed     | | Developer   |  |  | Online Shop |
-| Hosting     | | Support     |  |  | SME Package |
-|             | |             |  |  |             |
-+-------------+ +-------------+  +  +-------------+
-```
+To further fund the development of our OSS components, we are going to build SaaS services to complement the OSS offerings and help developers to get out the most of Unchained.
 
 **Managed Hosting**
 - Managed Hosting in Switzerland on a highly avaiable Docker Swarm Cluster
 - SLA, Phone Support, Performance Monitoring of Unchained
 
 **Developer Support**:
-- Shop Project Support (Frontend, Backend, UX, CSS)
+- Support plans (Frontend, Backend, UX, CSS)
 - Events & Trainings
-- Partner Contract
-  - Use the partner logo
-  - Access to software previews
-  - Marketed on the page and in PR / Social Media
-  - Guaranteed Conference Speech Seats
 
 **SaaS Tools**
 - Plugin Marketplace
 - Big Data, Analytics & AI Microservices that connect to the Unchained backend
 
-**Online Shop SME Package**:
-- Default Unchained Setup with all common plugins
-- GetCockpit CMS Integration
-- Multi-language Store Frontend with custom UI/UX
-- Photography, SEO, SEM services included
-- Only available in Switzerland currently: https://getunchained.ch
+**Solutions**:
+- Unchained Express Online Shop for SME
 
 #  Market & Competition
 
@@ -171,7 +138,7 @@ This market analysis is based on data from the following sources:
 
 ## Digital Commerce Platform Market (software architecture)
 
-In a world of digital commerce, the user experience gets more and more important. Some digital commerce providers differentiate themselves already from their competitors by introducing 360-Degree-Videos / Virtual-Reality-enabled-content on their shop platforms. To make those fine-grained shop individualizations a reality, the underlying shopping platform has to be increasingly flexible.
+In a world of digital commerce, the user experience gets more and more important. Some digital commerce providers differentiate themselves already from their competitors by introducing 360-Degree-Videos / Virtual-Reality-enabled-content on their shop platforms. To make those fine-grained shop individualizations a reality, the underlying e-commerce platform has to be increasingly flexible.
 
 Headless is the most flexible architecture allowing completely individual user interfaces, followed by semi-headless (Core functionalities exposed through API's) and monolithic architectures.
 
@@ -212,44 +179,21 @@ But there are currently no headless digital commerce platforms which are open so
 
 Small e-commerce shops today have a variety of options to sell their products easily through SaaS providers like Shopify or equivalent solutions which provide superior easy CMS possibilities that allows anyone to create a simple online shop. SaaS solutions on the other hand can not compete with flexible systems like WooCommerce, Magento, Hybris, etc. if more-than-usual individualization is required.
 
-Eliminating consumers and SME markets and taking business model and software architecture into account, Unchained.shop is generally suited for mid- to large digital commerce applications with more than USD 20’000 of revenue per month that want to deliver a superior digital commerce user experience to their customers.
+Eliminating consumers and startup markets and taking business model and software architecture into account, Unchained.shop is generally suited for mid- to large digital commerce applications with more than USD 20’000 of revenue per month that want to deliver a superior digital commerce user experience to their customers.
 
-**Therefore the primary customer segment of Unchained is software development agencies that do the heavy lifting of setting up and developing these highly individual user interfaces and therefore need a flexible platform to supercharge their digital commerce projects.**
-
-Using Unchained as a base for a more complete product, it can be used as a good starting point for smaller companies as well (5'000 - 20'000 online revenue per month). This is what **Unchained Boutique** is about, targeting SME's with a non-technical product on top of Unchained.
-
-
-# Financial Forecasts
-
-Forecast in KCHF (thousands of swiss francs)
-
-**Revenue Sources:**
-
-|                            | 2018 | 2019 | 2020 | 2021 | 2022 |
-|----------------------------|------|------|------|------|------|
-| Unchained Boutique         |      | 💸   | 💸💸   | 💸💸💸   | 💸💸💸💸 |
-| Unchained for Enterprises  | 💸   | 💸💸  | 💸💸   | 💸💸  | 💸💸💸 |
-| SaaS Services              |      | 💸 | 💸💸  | 💸💸   | 💸💸💸  |
-
-**Cost Structure (FTE's):**
-
-|                            | 2018 | 2019 | 2020 | 2021 | 2022 |
-|----------------------------|------|------|------|------|------|
-| Engineering | 1    | 2   | 3   | 4  | 4  |
-| Sales & Marketing            |      | 0.5    | 1   | 2   | 3.5  |
-| Events & Administration        |      |   0.5   | 1    | 1   | 1.5  |
-
-
-**Projected Earnings:**
-
-|                     | 2018 | 2019 | 2020 | 2021 | 2022 |
-|---------------------|------|------|------|------|------|
-| **Revenue**         | 155  | 360  | 840  | 1795 | 3350 |
-| **Recurring Costs** | 150  | 360  | 600  | 900  | 1140 |
-| **Earnings**        | 5    | 0    | 260  | 895  | 2210 |
+Using Unchained as a base for a more complete product, it can be used as a good starting point for smaller companies as well (5'000 - 20'000 online revenue per month). This is what **Unchained Express** is about, targeting SME's with a non-technical product on top of Unchained.
 
 
 Please visit [our Roadmap](readme.md) for references
+
+## Unchained Masterplan
+
+1. Build online shops for local companies.
+
+2. Use that money to develop an open source & headless e-commerce technology,
+providing support plans & hosting to a global audience.
+
+3. Use that money to build additional apps (analytics, marketplace, insights).
 
 # Contact
 
