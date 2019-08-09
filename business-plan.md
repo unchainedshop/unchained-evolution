@@ -186,7 +186,7 @@ Using Unchained as a base for a more complete product, it can be used as a good 
 
 Please visit [our Roadmap](readme.md) for references
 
-## Unchained Masterplan
+## Unchained Masterplan
 
 1. Build online shops for local companies.
 
