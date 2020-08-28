@@ -4,7 +4,7 @@ This repository tracks the ongoing evolution of the unchained shop. It contains:
 
 * [Our Business Plan](business-plan.md)
 
-## Prrimary quests
+## Primary quests
 
 We will always invest time and money into these tasks:
 
